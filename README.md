@@ -2,7 +2,7 @@
 This is sample network configured for computer science department in cisco paket tracer.
 It is a part of term assignment for the course Computer Network.
 
-## Following functionalities have been implemented in the cpt file.
+## Following functionalities have been implemented in the pkt file.
 1. VLSM Subnetting (network with personalized host requirements)
 2. Dynamic Routing (Rip v2)
 3. DHCP pool configuration
